@@ -4,7 +4,7 @@ export const personalInfo = {
   subtitle: "Java | Spring Boot | Microservices | Kubernetes",
   email: "rohitkorde02@gmail.com",
   location: "Pune, Maharashtra, India",
-  linkedin: "https://www.linkedin.com/in/rohitkorde-19a57b148",
+  linkedin: "https://linkedin.com/in/rohit-korde-19a57b148",
   summary: "Seasoned Developer with 7.11 years of a proven track record in delivering impactful solutions for high-profile clients. Skilled in Java, Spring Boot, AWS Services, and microservices architecture, with a strong command of Docker, Kubernetes, and Jenkins. Proficient in developing REST APIs and leveraging Apache Kafka and Spring Cloud to enhance project ecosystems.",
   education: [
     {
