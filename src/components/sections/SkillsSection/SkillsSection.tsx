@@ -59,7 +59,7 @@ export const SkillsSection: React.FC = () => {
                   <IconComponent className={`${category.color}`} size={32} />
                   <h3 className="text-xl font-bold">{category.title}</h3>
                 </div>
-                <div className="flex flex-wrap gap-3">
+                <div className="flex flex-wrap gap-6">
                   {category.techs.map(tech => (
                     <TechIcon key={tech} techKey={tech} className="w-10 h-10" />
                   ))}
