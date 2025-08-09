@@ -55,7 +55,7 @@ const ExperienceCard: React.FC<ExperienceCardProps> = ({ experience, index }) =>
         {/* Technologies Used */}
         <div className="text-left">
           <h5 className="text-lg font-semibold mb-3 text-green-400">Technologies:</h5>
-          <div className="flex flex-wrap gap-3 justify-start">
+          <div className="flex flex-wrap gap-14 justify-start">
             {experience.techs.map((tech, i) => (
               <div
                 key={tech}

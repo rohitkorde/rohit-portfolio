@@ -50,7 +50,7 @@ export const HeroSection: React.FC = () => {
         {/* Tech Stack Showcase */}
         <div className="mb-12">
           <h3 className="text-2xl mb-6 text-gray-300">Core Technologies</h3>
-          <div className="flex flex-wrap justify-center gap-6">
+          <div className="flex flex-wrap justify-center gap-10">
             {coreTechs.map((tech, index) => (
               <div
                 key={tech}
